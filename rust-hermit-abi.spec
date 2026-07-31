@@ -7,7 +7,7 @@
 %global crate hermit-abi
 
 Name:           rust-hermit-abi
-Version:        0.4.0
+Version:        0.5.2
 Release:        1
 Summary:        Hermit system calls definitions
 Group:          Development/Rust
